@@ -9,6 +9,6 @@ authors:
     orcid: "https://orcid.org/0000-0001-6240-560X"
 title: "Visualizing Runtime Evolution Paths in a Multidimensional Space (Work In Progress Paper)"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
+doi: 10.1145/3578245.3585031
 date-released: 2023
 url: "https://github.com/vis-uni-bamberg/evolution-paths"
