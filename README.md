@@ -1,6 +1,6 @@
 # evolution-paths
 
-![deployment status](https://github.com/vis-uni-bamberg/evolution-paths/.github/workflows/vite.yml/badge.svg): https://vis-uni-bamberg.github.io/evolution-paths/
+[![Deployment Status](https://github.com/vis-uni-bamberg/evolution-paths/actions/workflows/vite.yml/badge.svg)](https://github.com/vis-uni-bamberg/evolution-paths/actions/workflows/vite.yml)
 
 ![teaser](teaser.png)
 
