@@ -1,5 +1,7 @@
 # evolution-paths
 
+![deployment status](https://github.com/vis-uni-bamberg/evolution-paths/.github/workflows/vite.yml/badge.svg): https://vis-uni-bamberg.github.io/evolution-paths/
+
 ![teaser](teaser.png)
 
 Runtime data of software systems is often of multivariate nature, describing different aspects of performance among other characteristics, and evolves along different versions or changes depending on the execution context.
@@ -18,7 +20,7 @@ For local development clone the repository and run `npm run dev` to start the de
 
 For building the application run `npm run build`.
 
-A working copy containing all datasets is deployed under https://to.do
+A working copy containing all datasets is deployed under https://vis-uni-bamberg.github.io/evolution-paths/
 
 ## Cite this
 

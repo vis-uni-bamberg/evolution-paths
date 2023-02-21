@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Tarner"
+    given-names: "Hagen"
+    orcid: "https://orcid.org/0000-0001-6240-560X"
+  - family-names: "Beck"
+    given-names: "Fabian"
+    orcid: "https://orcid.org/0000-0001-6240-560X"
+title: "Visualizing Runtime Evolution Paths in a Multidimensional Space (Work In Progress Paper)"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023
+url: "https://github.com/vis-uni-bamberg/evolution-paths"
