@@ -1,0 +1,1 @@
+{"random_state": 666, "metric": "euclidean", "min_dist": 1.0, "spread": 5.0, "n_neighbors": 25, "alignment_window_size": 3, "alignment_regularisation": 0.01}
