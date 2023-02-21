@@ -21,15 +21,3 @@ For local development clone the repository and run `npm run dev` to start the de
 For building the application run `npm run build`.
 
 A working copy containing all datasets is deployed under https://vis-uni-bamberg.github.io/evolution-paths/
-
-## Cite this
-
-This application is part of the supplementary material to the publication
-
-> Hagen Tarner and Fabian Beck. 2023. Visualizing Runtime Evolution Paths in a Multidimensional Space (Work In Progress Paper). In Companion of the 2023 ACM/SPEC International Conference on Performance Engineering (ICPE ’23 Companion), April 15–19, 2023, Coimbra, Portugal. ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/XXXXXX.XXXXXX
-
-to cite it, please use the following bibtex entry:
-
-```bibtex
-@INPROCEEDINGS{}
-```
