@@ -1,14 +1,57 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
+title: >-
+  Visualizing Runtime Evolution Paths in a Multidimensional
+  Space (Work In Progress Paper)
 message: "If you use this software, please cite it as below."
+type: software
 authors:
-  - family-names: "Tarner"
-    given-names: "Hagen"
+  - family-names: Tarner
+    given-names: Hagen
     orcid: "https://orcid.org/0000-0001-6240-560X"
-  - family-names: "Beck"
-    given-names: "Fabian"
+    email: hagen.tarner@paluno.de
+    affiliation: University of Duisburg-Essen
+  - family-names: Beck
+    given-names: Fabian
     orcid: "https://orcid.org/0000-0001-6240-560X"
-title: "Visualizing Runtime Evolution Paths in a Multidimensional Space (Work In Progress Paper)"
+    email: fabian.beck@uni-bamberg.de
+    affiliation: University of Bamberg
+identifiers:
+  - type: doi
+    value: 10.1145/3578245.3585031
+repository-code: "https://github.com/vis-uni-bamberg/evolution-paths"
+url: "https://vis-uni-bamberg.github.io/evolution-paths/"
+abstract: >-
+  Runtime data of software systems is often of multivariate
+  nature, describing different aspects of performance among
+  other characteristics, and evolves along different
+  versions or changes depending on the execution context.
+  This poses a challenge for visualizations, which are
+  typically only two- or three-dimensional. Using
+  dimensionality reduction, we project the multivariate
+  runtime data to 2D and visualize the result in a scatter
+  plot. To show changes over time, we apply the projection
+  to multiple timestamps and connect temporally adjacent
+  points to form trajectories. This allows for cluster and
+  outlier detection, analysis of co-evolution, and finding
+  temporal patterns. While projected temporal trajectories
+  have been applied to other domains before, we use it to
+  visualize software evolution and execution context changes
+  as evolution paths. We experiment with and report results
+  of two application examples: (I) the runtime evolution
+  along different versions of components from the Apache
+  Commons project, and (II) a benchmark suite from
+  scientific visualization comparing different rendering
+  techniques along camera paths.
+keywords:
+  - Dimensionality reduction
+  - Software visualization
+  - Runtime performance
+  - Dynamic analysis
+  - Software evolution
+license: CRAPL
+commit: 735b20a87000ecce3057471d15d31acaca941ac5
 version: 1.0.0
-doi: 10.1145/3578245.3585031
-date-released: 2023
-url: "https://github.com/vis-uni-bamberg/evolution-paths"
+date-released: "2023-02-21"
