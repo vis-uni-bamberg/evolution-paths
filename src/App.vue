@@ -1,5 +1,5 @@
 <script>
-import {JsPanel} from "vue3-js-panel";
+import JsPanel from "./components/JsPanel.vue";
 import CanvasRenderer from "./components/CanvasRenderer.vue";
 import {useProjectStore} from "./stores/project";
 import DetailsOnDemand from "./components/DetailsOnDemand.vue";
@@ -125,7 +125,7 @@ export default {
 
 <style>
 @import "normalize.css/normalize.css";
-@import "jspanel4/dist/jspanel.css";
+@import "jspanel4/es6module/jspanel.css";
 @import "concrete.css/concrete.css";
 
 body {
